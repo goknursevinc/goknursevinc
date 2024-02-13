@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Göknur SEVİNÇ
+#### I am a computer engineering student at Eskisehir Osmangazi University.
+![I am a computer engineering student at Eskisehir Osmangazi University.](https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif)
 
-<!--
-**goknursevinc/goknursevinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Skills: C# / Python / MSSQL / POSTQRESQL / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning C# for back-end development. 
+- 📫 How to reach me: goknursevinc753@gmail.com 
+
+
+
+
