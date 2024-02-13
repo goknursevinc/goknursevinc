@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Göknur SEVİNÇ
 #### I am a computer engineering student at Eskisehir Osmangazi University.
-![I am a computer engineering student at Eskisehir Osmangazi University.](https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif)
+![I am a computer engineering student at Eskisehir Osmangazi University.](https://img.freepik.com/premium-vector/hello-world-is-simple-word-programmer-s-first-programming_48644-298.jpg?w=996)
 
 
 Skills: C# / Python / MSSQL / POSTQRESQL / CSS
